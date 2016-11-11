@@ -17,3 +17,4 @@ glitch is a text based program inspired by [libglitch](https://github.com/erlehm
 ## Examples ##
 
 	{ echo '..4)&.4*.7)&|'; sleep 6; echo '..4)&.3*.7)&|1-'; sleep 4; } | ./glitch -a >/dev/dsp
+	{ echo '.9*.4)&.5*.7)&|.3*.400/&|1-'; sleep 20; } | ./glitch -a >/dev/dsp
